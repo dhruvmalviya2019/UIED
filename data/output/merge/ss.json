@@ -2,223 +2,258 @@
     "compos": [
         {
             "id": 0,
-            "class": "Compo",
+            "class": "ImageView",
             "height": 6,
             "width": 9,
             "position": {
                 "column_min": 625,
                 "row_min": 11,
                 "column_max": 634,
-                "row_max": 17
+                "row_max": 17,
+                "Centroid_x": 629.5,
+                "Centroid_y": 14.0
             }
         },
         {
             "id": 1,
-            "class": "Compo",
+            "class": "ImageButton",
             "height": 6,
             "width": 7,
             "position": {
                 "column_min": 9,
                 "row_min": 30,
                 "column_max": 16,
-                "row_max": 36
+                "row_max": 36,
+                "Centroid_x": 12.5,
+                "Centroid_y": 33.0
             }
         },
         {
             "id": 2,
-            "class": "Compo",
+            "class": "TextView",
             "height": 14,
             "width": 56,
             "position": {
                 "column_min": 655,
                 "row_min": 29,
                 "column_max": 711,
-                "row_max": 43
+                "row_max": 43,
+                "Centroid_x": 683.0,
+                "Centroid_y": 36.0
             }
         },
         {
             "id": 3,
-            "class": "Compo",
+            "class": "TextView",
             "height": 13,
             "width": 50,
             "position": {
                 "column_min": 180,
                 "row_min": 53,
                 "column_max": 230,
-                "row_max": 66
+                "row_max": 66,
+                "Centroid_x": 205.0,
+                "Centroid_y": 59.5
             }
         },
         {
             "id": 4,
-            "class": "Compo",
+            "class": "ImageView",
             "height": 49,
             "width": 48,
             "position": {
                 "column_min": 106,
                 "row_min": 194,
                 "column_max": 154,
-                "row_max": 243
+                "row_max": 243,
+                "Centroid_x": 130.0,
+                "Centroid_y": 218.5
             }
         },
         {
             "id": 5,
-            "class": "Compo",
+            "class": "ImageView",
             "height": 127,
             "width": 130,
             "position": {
                 "column_min": 253,
                 "row_min": 194,
                 "column_max": 383,
-                "row_max": 321
+                "row_max": 321,
+                "Centroid_x": 318.0,
+                "Centroid_y": 257.5
             }
         },
         {
             "id": 6,
-            "class": "Compo",
+            "class": "ImageView",
             "height": 127,
             "width": 130,
             "position": {
                 "column_min": 407,
                 "row_min": 194,
                 "column_max": 537,
-                "row_max": 321
+                "row_max": 321,
+                "Centroid_x": 472.0,
+                "Centroid_y": 257.5
             }
         },
         {
             "id": 7,
-            "class": "Compo",
+            "class": "ImageView",
             "height": 55,
             "width": 62,
             "position": {
                 "column_min": 561,
                 "row_min": 194,
                 "column_max": 623,
-                "row_max": 249
+                "row_max": 249,
+                "Centroid_x": 592.0,
+                "Centroid_y": 221.5
             }
         },
         {
             "id": 8,
-            "class": "Compo",
+            "class": "ImageView",
             "height": 54,
             "width": 62,
             "position": {
                 "column_min": 629,
                 "row_min": 194,
                 "column_max": 691,
-                "row_max": 248
+                "row_max": 248,
+                "Centroid_x": 660.0,
+                "Centroid_y": 221.0
             }
         },
         {
             "id": 9,
-            "class": "Compo",
+            "class": "ImageView",
             "height": 32,
             "width": 59,
             "position": {
                 "column_min": 168,
                 "row_min": 202,
                 "column_max": 227,
-                "row_max": 234
+                "row_max": 234,
+                "Centroid_x": 197.5,
+                "Centroid_y": 218.0
             }
         },
         {
             "id": 10,
-            "class": "Compo",
+            "class": "ImageView",
             "height": 54,
             "width": 62,
             "position": {
                 "column_min": 561,
                 "row_min": 261,
                 "column_max": 623,
-                "row_max": 315
+                "row_max": 315,
+                "Centroid_x": 592.0,
+                "Centroid_y": 288.0
             }
         },
         {
             "id": 11,
-            "class": "Compo",
+            "class": "ImageView",
             "height": 55,
             "width": 62,
             "position": {
                 "column_min": 629,
                 "row_min": 261,
                 "column_max": 691,
-                "row_max": 316
+                "row_max": 316,
+                "Centroid_x": 660.0,
+                "Centroid_y": 288.5
             }
         },
         {
             "id": 12,
-            "class": "Compo",
+            "class": "ImageView",
             "height": 40,
             "width": 23,
             "position": {
                 "column_min": 187,
                 "row_min": 266,
                 "column_max": 210,
-                "row_max": 306
+                "row_max": 306,
+                "Centroid_x": 198.5,
+                "Centroid_y": 286.0
             }
         },
         {
             "id": 13,
-            "class": "Compo",
+            "class": "ImageView",
             "height": 28,
             "width": 49,
             "position": {
                 "column_min": 105,
                 "row_min": 271,
                 "column_max": 154,
-                "row_max": 299
+                "row_max": 299,
+                "Centroid_x": 129.5,
+                "Centroid_y": 285.0
             }
         },
         {
             "id": 14,
-            "class": "Compo",
+            "class": "TextView",
             "height": 95,
             "width": 145,
             "position": {
                 "column_min": 92,
                 "row_min": 354,
                 "column_max": 237,
-                "row_max": 449
+                "row_max": 449,
+                "Centroid_x": 164.5,
+                "Centroid_y": 401.5
             }
         },
         {
             "id": 15,
-            "class": "Block",
+            "class": "ImageView",
             "height": 95,
             "width": 145,
             "position": {
                 "column_min": 246,
                 "row_min": 354,
                 "column_max": 391,
-                "row_max": 449
+                "row_max": 449,
+                "Centroid_x": 318.5,
+                "Centroid_y": 401.5
             },
             "children": [
                 18,
-                19,
-                38
+                19
             ]
         },
         {
             "id": 16,
-            "class": "Compo",
+            "class": "ImageButton",
             "height": 95,
             "width": 145,
             "position": {
                 "column_min": 400,
                 "row_min": 354,
                 "column_max": 545,
-                "row_max": 449
+                "row_max": 449,
+                "Centroid_x": 472.5,
+                "Centroid_y": 401.5
             }
         },
         {
             "id": 17,
-            "class": "Compo",
+            "class": "ImageView",
             "height": 95,
             "width": 145,
             "position": {
                 "column_min": 554,
                 "row_min": 354,
                 "column_max": 699,
-                "row_max": 449
+                "row_max": 449,
+                "Centroid_x": 626.5,
+                "Centroid_y": 401.5
             },
             "children": [
                 20,
@@ -227,53 +262,61 @@
         },
         {
             "id": 18,
-            "class": "Compo",
+            "class": "ImageView",
             "height": 55,
             "width": 62,
             "position": {
                 "column_min": 253,
                 "row_min": 377,
                 "column_max": 315,
-                "row_max": 432
+                "row_max": 432,
+                "Centroid_x": 284.0,
+                "Centroid_y": 404.5
             },
             "parent": 15
         },
         {
             "id": 19,
-            "class": "Compo",
+            "class": "ImageView",
             "height": 55,
             "width": 62,
             "position": {
                 "column_min": 321,
                 "row_min": 377,
                 "column_max": 383,
-                "row_max": 432
+                "row_max": 432,
+                "Centroid_x": 352.0,
+                "Centroid_y": 404.5
             },
             "parent": 15
         },
         {
             "id": 20,
-            "class": "Compo",
+            "class": "ImageView",
             "height": 49,
             "width": 19,
             "position": {
                 "column_min": 582,
                 "row_min": 399,
                 "column_max": 601,
-                "row_max": 448
+                "row_max": 448,
+                "Centroid_x": 591.5,
+                "Centroid_y": 423.5
             },
             "parent": 17
         },
         {
             "id": 21,
-            "class": "Compo",
+            "class": "ImageView",
             "height": 48,
             "width": 16,
             "position": {
                 "column_min": 653,
                 "row_min": 400,
                 "column_max": 669,
-                "row_max": 448
+                "row_max": 448,
+                "Centroid_x": 661.0,
+                "Centroid_y": 424.0
             },
             "parent": 17
         },
@@ -286,7 +329,9 @@
                 "column_min": 17,
                 "row_min": 29,
                 "column_max": 26,
-                "row_max": 35
+                "row_max": 35,
+                "Centroid_x": 53.0,
+                "Centroid_y": 77.5
             },
             "text_content": "All"
         },
@@ -299,7 +344,9 @@
                 "column_min": 36,
                 "row_min": 30,
                 "column_max": 51,
-                "row_max": 35
+                "row_max": 35,
+                "Centroid_x": 105.5,
+                "Centroid_y": 78.5
             },
             "text_content": "Today"
         },
@@ -312,7 +359,9 @@
                 "column_min": 61,
                 "row_min": 33,
                 "column_max": 230,
-                "row_max": 38
+                "row_max": 38,
+                "Centroid_x": 350.0,
+                "Centroid_y": 86.5
             },
             "text_content": "We're showing you items that ship to India . To see items that ship"
         },
@@ -325,7 +374,9 @@
                 "column_min": 61,
                 "row_min": 41,
                 "column_max": 195,
-                "row_max": 47
+                "row_max": 47,
+                "Centroid_x": 307.5,
+                "Centroid_y": 106.5
             },
             "text_content": "to a different country , change your delivery address ."
         },
@@ -338,7 +389,9 @@
                 "column_min": 152,
                 "row_min": 56,
                 "column_max": 170,
-                "row_max": 62
+                "row_max": 62,
+                "Centroid_x": 388.0,
+                "Centroid_y": 142.5
             },
             "text_content": "Dismiss"
         },
@@ -351,7 +404,9 @@
                 "column_min": 100,
                 "row_min": 180,
                 "column_max": 183,
-                "row_max": 188
+                "row_max": 188,
+                "Centroid_x": 340.5,
+                "Centroid_y": 443.5
             },
             "text_content": "Gaming accessories"
         },
@@ -364,7 +419,9 @@
                 "column_min": 100,
                 "row_min": 244,
                 "column_max": 120,
-                "row_max": 247
+                "row_max": 247,
+                "Centroid_x": 264.5,
+                "Centroid_y": 590.0
             },
             "text_content": "Headsets"
         },
@@ -377,7 +434,9 @@
                 "column_min": 100,
                 "row_min": 310,
                 "column_max": 132,
-                "row_max": 315
+                "row_max": 315,
+                "Centroid_x": 279.5,
+                "Centroid_y": 750.0
             },
             "text_content": "Computer mice"
         },
@@ -390,7 +449,9 @@
                 "column_min": 99,
                 "row_min": 330,
                 "column_max": 123,
-                "row_max": 335
+                "row_max": 335,
+                "Centroid_x": 267.5,
+                "Centroid_y": 799.0
             },
             "text_content": "See more"
         },
@@ -403,7 +464,9 @@
                 "column_min": 167,
                 "row_min": 243,
                 "column_max": 190,
-                "row_max": 248
+                "row_max": 248,
+                "Centroid_x": 430.5,
+                "Centroid_y": 590.5
             },
             "text_content": "Keyboards"
         },
@@ -416,7 +479,9 @@
                 "column_min": 167,
                 "row_min": 310,
                 "column_max": 181,
-                "row_max": 314
+                "row_max": 314,
+                "Centroid_x": 418.5,
+                "Centroid_y": 749.5
             },
             "text_content": "Chairs"
         },
@@ -429,7 +494,9 @@
                 "column_min": 242,
                 "row_min": 75,
                 "column_max": 355,
-                "row_max": 89
+                "row_max": 89,
+                "Centroid_x": 717.5,
+                "Centroid_y": 197.5
             },
             "text_content": "Delightful deals"
         },
@@ -442,7 +509,9 @@
                 "column_min": 240,
                 "row_min": 93,
                 "column_max": 332,
-                "row_max": 108
+                "row_max": 108,
+                "Centroid_x": 687.5,
+                "Centroid_y": 242.5
             },
             "text_content": "for everyone"
         },
@@ -455,7 +524,9 @@
                 "column_min": 217,
                 "row_min": 151,
                 "column_max": 572,
-                "row_max": 156
+                "row_max": 156,
+                "Centroid_x": 948.0,
+                "Centroid_y": 369.5
             },
             "text_content": "You are on amazon.com . You can also shop on Amazon India for millions of products with fast local delivery . Click here to go to amazon.in"
         },
@@ -468,7 +539,9 @@
                 "column_min": 254,
                 "row_min": 180,
                 "column_max": 317,
-                "row_max": 188
+                "row_max": 188,
+                "Centroid_x": 685.5,
+                "Centroid_y": 442.5
             },
             "text_content": "Toys under $ 25"
         },
@@ -481,26 +554,14 @@
                 "column_min": 253,
                 "row_min": 330,
                 "column_max": 277,
-                "row_max": 335
+                "row_max": 335,
+                "Centroid_x": 637.5,
+                "Centroid_y": 799.5
             },
             "text_content": "Shop now"
         },
         {
             "id": 38,
-            "class": "Text",
-            "height": 10,
-            "width": 91,
-            "position": {
-                "column_min": 254,
-                "row_min": 362,
-                "column_max": 345,
-                "row_max": 372
-            },
-            "text_content": "Shop deals in Fashion",
-            "parent": 15
-        },
-        {
-            "id": 39,
             "class": "Text",
             "height": 4,
             "width": 13,
@@ -508,12 +569,14 @@
                 "column_min": 452,
                 "row_min": 42,
                 "column_max": 465,
-                "row_max": 46
+                "row_max": 46,
+                "Centroid_x": 1100.5,
+                "Centroid_y": 107.5
             },
             "text_content": "sarah"
         },
         {
-            "id": 40,
+            "id": 39,
             "class": "Text",
             "height": 5,
             "width": 53,
@@ -521,12 +584,14 @@
                 "column_min": 408,
                 "row_min": 181,
                 "column_max": 461,
-                "row_max": 186
+                "row_max": 186,
+                "Centroid_x": 1043.5,
+                "Centroid_y": 441.5
             },
             "text_content": "Deals in PCs"
         },
         {
-            "id": 41,
+            "id": 40,
             "class": "Text",
             "height": 5,
             "width": 24,
@@ -534,12 +599,14 @@
                 "column_min": 407,
                 "row_min": 330,
                 "column_max": 431,
-                "row_max": 335
+                "row_max": 335,
+                "Centroid_x": 1007.5,
+                "Centroid_y": 799.5
             },
             "text_content": "Shop now"
         },
         {
-            "id": 42,
+            "id": 41,
             "class": "Text",
             "height": 11,
             "width": 10,
@@ -547,12 +614,14 @@
                 "column_min": 580,
                 "row_min": 106,
                 "column_max": 590,
-                "row_max": 117
+                "row_max": 117,
+                "Centroid_x": 1406.0,
+                "Centroid_y": 269.0
             },
             "text_content": "NIC"
         },
         {
-            "id": 43,
+            "id": 42,
             "class": "Text",
             "height": 9,
             "width": 54,
@@ -560,12 +629,14 @@
                 "column_min": 562,
                 "row_min": 180,
                 "column_max": 616,
-                "row_max": 189
+                "row_max": 189,
+                "Centroid_x": 1414.0,
+                "Centroid_y": 443.5
             },
             "text_content": "Refresh your"
         },
         {
-            "id": 44,
+            "id": 43,
             "class": "Text",
             "height": 8,
             "width": 25,
@@ -573,12 +644,14 @@
                 "column_min": 618,
                 "row_min": 182,
                 "column_max": 643,
-                "row_max": 190
+                "row_max": 190,
+                "Centroid_x": 1514.0,
+                "Centroid_y": 447.0
             },
             "text_content": "space"
         },
         {
-            "id": 45,
+            "id": 44,
             "class": "Text",
             "height": 5,
             "width": 23,
@@ -586,12 +659,14 @@
                 "column_min": 562,
                 "row_min": 330,
                 "column_max": 585,
-                "row_max": 335
+                "row_max": 335,
+                "Centroid_x": 1377.0,
+                "Centroid_y": 799.0
             },
             "text_content": "See more"
         },
         {
-            "id": 46,
+            "id": 45,
             "class": "Text",
             "height": 4,
             "width": 11,
@@ -599,12 +674,14 @@
                 "column_min": 636,
                 "row_min": 11,
                 "column_max": 647,
-                "row_max": 15
+                "row_max": 15,
+                "Centroid_x": 1541.5,
+                "Centroid_y": 33.0
             },
             "text_content": "EN ."
         },
         {
-            "id": 47,
+            "id": 46,
             "class": "Text",
             "height": 4,
             "width": 44,
@@ -612,12 +689,14 @@
                 "column_min": 658,
                 "row_min": 12,
                 "column_max": 702,
-                "row_max": 16
+                "row_max": 16,
+                "Centroid_x": 1634.0,
+                "Centroid_y": 35.5
             },
             "text_content": "Account & Lists"
         },
         {
-            "id": 48,
+            "id": 47,
             "class": "Text",
             "height": 3,
             "width": 56,
@@ -625,12 +704,14 @@
                 "column_min": 655,
                 "row_min": 47,
                 "column_max": 711,
-                "row_max": 50
+                "row_max": 50,
+                "Centroid_x": 1640.5,
+                "Centroid_y": 118.0
             },
             "text_content": "New customer ? Start here ."
         },
         {
-            "id": 49,
+            "id": 48,
             "class": "Text",
             "height": 4,
             "width": 12,
@@ -638,7 +719,9 @@
                 "column_min": 769,
                 "row_min": 12,
                 "column_max": 781,
-                "row_max": 16
+                "row_max": 16,
+                "Centroid_x": 1861.0,
+                "Centroid_y": 35.5
             },
             "text_content": "Cart"
         }

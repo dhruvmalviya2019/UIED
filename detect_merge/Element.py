@@ -10,6 +10,8 @@ class Element:
         self.width = self.col_max - self.col_min
         self.height = self.row_max - self.row_min
         self.area = self.width * self.height
+        self.Centroid_x = (self.col_max + self.col_min)/2
+        self.Centroid_y = (self.row_max + self.row_min)/2
 
         self.text_content = text_content
         self.parent_id = None
@@ -26,7 +28,7 @@ class Element:
     def wrap_info(self):
         info = {'id':self.id, 'class': self.category, 'height': self.height, 'width': self.width,
                 'position': {'column_min': self.col_min, 'row_min': self.row_min, 'column_max': self.col_max,
-                             'row_max': self.row_max}}
+                             'row_max': self.row_max, 'Centroid_x' : self.Centroid_x, 'Centroid_y' : self.Centroid_y}}
         if self.text_content is not None:
             info['text_content'] = self.text_content
         if len(self.children) > 0:

@@ -10,10 +10,12 @@ from detect_merge.Element import Element
 
 
 def show_elements(org_img, eles, show=False, win_name='element', wait_key=0, shown_resize=None, line=2):
-    color_map = {'Text':(0, 0, 255), 'Compo':(0, 255, 0), 'Block':(0, 255, 0), 'Text Content':(255, 0, 255)}
+    # color_map = {'Text':(0, 0, 255), 'Compo':(0, 255, 0), 'Block':(0, 255, 0), 'Text Content':(255, 0, 255),
+    #             'Text':(0, 0, 255), 'Compo':(0, 255, 0), 'Block':(0, 255, 0), 'Text Content':(255, 0, 255),
+    #             'Text':(0, 0, 255), 'Compo':(0, 255, 0), 'Block':(0, 255, 0), 'Text Content':(255, 0, 255),   }
     img = org_img.copy()
     for ele in eles:
-        color = color_map[ele.category]
+        color = (0,0,255)
         ele.visualize_element(img, color, line)
     img_resize = img
     if shown_resize is not None:

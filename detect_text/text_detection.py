@@ -16,6 +16,8 @@ def save_detection_json(file_path, texts, img_shape):
         c['column_min'], c['row_min'], c['column_max'], c['row_max'] = loc['left'], loc['top'], loc['right'], loc['bottom']
         c['width'] = text.width
         c['height'] = text.height
+        c['Centroid_x'] = (loc['left']+loc['right'])/2
+        c['Centroid_y'] = (loc['top']+loc['bottom'])/2
         output['texts'].append(c)
     json.dump(output, f_out, indent=4)
 
@@ -127,10 +129,7 @@ def text_filter_noise(texts):
 
 
 def text_detection(input_file='../data/input/30800.jpg', output_file='../data/output', show=False, method='google', paddle_model=None):
-    '''
-    :param method: google or paddle
-    :param paddle_model: the preload paddle model for paddle ocr
-    '''
+
     start = time.perf_counter()
     name = input_file.split('/')[-1][:-4]
     ocr_root = pjoin(output_file, 'ocr')
