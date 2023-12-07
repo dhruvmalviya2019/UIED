@@ -1,0 +1,509 @@
+{
+    "img_shape": [
+        1080,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "amazon",
+            "column_min": 22,
+            "row_min": 18,
+            "column_max": 118,
+            "row_max": 37,
+            "width": 96,
+            "height": 19
+        },
+        {
+            "id": 1,
+            "content": "All",
+            "column_min": 43,
+            "row_min": 71,
+            "column_max": 63,
+            "row_max": 84,
+            "width": 20,
+            "height": 13
+        },
+        {
+            "id": 2,
+            "content": "Today",
+            "column_min": 87,
+            "row_min": 73,
+            "column_max": 124,
+            "row_max": 84,
+            "width": 37,
+            "height": 11
+        },
+        {
+            "id": 3,
+            "content": "Deliver to",
+            "column_min": 161,
+            "row_min": 16,
+            "column_max": 211,
+            "row_max": 25,
+            "width": 50,
+            "height": 9
+        },
+        {
+            "id": 4,
+            "content": "India",
+            "column_min": 160,
+            "row_min": 27,
+            "column_max": 193,
+            "row_max": 41,
+            "width": 33,
+            "height": 14
+        },
+        {
+            "id": 5,
+            "content": "All",
+            "column_min": 254,
+            "row_min": 25,
+            "column_max": 269,
+            "row_max": 33,
+            "width": 15,
+            "height": 8
+        },
+        {
+            "id": 6,
+            "content": "Search Amazon",
+            "column_min": 304,
+            "row_min": 22,
+            "column_max": 409,
+            "row_max": 33,
+            "width": 105,
+            "height": 11
+        },
+        {
+            "id": 7,
+            "content": "We're showing you items that ship to India . To see items that ship",
+            "column_min": 147,
+            "row_min": 80,
+            "column_max": 553,
+            "row_max": 93,
+            "width": 406,
+            "height": 13
+        },
+        {
+            "id": 8,
+            "content": "to a different country , change your delivery address .",
+            "column_min": 147,
+            "row_min": 99,
+            "column_max": 468,
+            "row_max": 114,
+            "width": 321,
+            "height": 15
+        },
+        {
+            "id": 9,
+            "content": "Dismiss",
+            "column_min": 366,
+            "row_min": 136,
+            "column_max": 410,
+            "row_max": 149,
+            "width": 44,
+            "height": 13
+        },
+        {
+            "id": 10,
+            "content": "Gaming accessories",
+            "column_min": 240,
+            "row_min": 434,
+            "column_max": 441,
+            "row_max": 453,
+            "width": 201,
+            "height": 19
+        },
+        {
+            "id": 11,
+            "content": "Headsets",
+            "column_min": 240,
+            "row_min": 586,
+            "column_max": 289,
+            "row_max": 594,
+            "width": 49,
+            "height": 8
+        },
+        {
+            "id": 12,
+            "content": "Computer mice",
+            "column_min": 240,
+            "row_min": 744,
+            "column_max": 319,
+            "row_max": 756,
+            "width": 79,
+            "height": 12
+        },
+        {
+            "id": 13,
+            "content": "See more",
+            "column_min": 239,
+            "row_min": 793,
+            "column_max": 296,
+            "row_max": 805,
+            "width": 57,
+            "height": 12
+        },
+        {
+            "id": 14,
+            "content": "Top Deal",
+            "column_min": 239,
+            "row_min": 870,
+            "column_max": 326,
+            "row_max": 893,
+            "width": 87,
+            "height": 23
+        },
+        {
+            "id": 15,
+            "content": "Change Address",
+            "column_min": 447,
+            "row_min": 135,
+            "column_max": 541,
+            "row_max": 151,
+            "width": 94,
+            "height": 16
+        },
+        {
+            "id": 16,
+            "content": "Keyboards",
+            "column_min": 403,
+            "row_min": 585,
+            "column_max": 458,
+            "row_max": 596,
+            "width": 55,
+            "height": 11
+        },
+        {
+            "id": 17,
+            "content": "Chairs",
+            "column_min": 402,
+            "row_min": 745,
+            "column_max": 435,
+            "row_max": 754,
+            "width": 33,
+            "height": 9
+        },
+        {
+            "id": 18,
+            "content": "Delightful deals",
+            "column_min": 581,
+            "row_min": 180,
+            "column_max": 854,
+            "row_max": 215,
+            "width": 273,
+            "height": 35
+        },
+        {
+            "id": 19,
+            "content": "for everyone",
+            "column_min": 578,
+            "row_min": 224,
+            "column_max": 797,
+            "row_max": 261,
+            "width": 219,
+            "height": 37
+        },
+        {
+            "id": 20,
+            "content": "You are on amazon.com . You can also shop on Amazon India for millions of products with fast local delivery . Click here to go to amazon.in",
+            "column_min": 522,
+            "row_min": 363,
+            "column_max": 1374,
+            "row_max": 376,
+            "width": 852,
+            "height": 13
+        },
+        {
+            "id": 21,
+            "content": "Toys under $ 25",
+            "column_min": 610,
+            "row_min": 432,
+            "column_max": 761,
+            "row_max": 453,
+            "width": 151,
+            "height": 21
+        },
+        {
+            "id": 22,
+            "content": "Shop now",
+            "column_min": 609,
+            "row_min": 794,
+            "column_max": 666,
+            "row_max": 805,
+            "width": 57,
+            "height": 11
+        },
+        {
+            "id": 23,
+            "content": "Shop deals in Fashion",
+            "column_min": 610,
+            "row_min": 871,
+            "column_max": 829,
+            "row_max": 893,
+            "width": 219,
+            "height": 22
+        },
+        {
+            "id": 24,
+            "content": "Jeans under $ 50",
+            "column_min": 609,
+            "row_min": 1025,
+            "column_max": 699,
+            "row_max": 1034,
+            "width": 90,
+            "height": 9
+        },
+        {
+            "id": 25,
+            "content": "Tops under $ 25",
+            "column_min": 772,
+            "row_min": 1023,
+            "column_max": 854,
+            "row_max": 1036,
+            "width": 82,
+            "height": 13
+        },
+        {
+            "id": 26,
+            "content": "sarah",
+            "column_min": 1085,
+            "row_min": 103,
+            "column_max": 1116,
+            "row_max": 112,
+            "width": 31,
+            "height": 9
+        },
+        {
+            "id": 27,
+            "content": "Deals in PCs",
+            "column_min": 980,
+            "row_min": 435,
+            "column_max": 1107,
+            "row_max": 448,
+            "width": 127,
+            "height": 13
+        },
+        {
+            "id": 28,
+            "content": "Shop now",
+            "column_min": 979,
+            "row_min": 794,
+            "column_max": 1036,
+            "row_max": 805,
+            "width": 57,
+            "height": 11
+        },
+        {
+            "id": 29,
+            "content": "TAGESSOR",
+            "column_min": 1080,
+            "row_min": 648,
+            "column_max": 1129,
+            "row_max": 656,
+            "width": 49,
+            "height": 8
+        },
+        {
+            "id": 30,
+            "content": "Shop holiday gift guides",
+            "column_min": 979,
+            "row_min": 873,
+            "column_max": 1221,
+            "row_max": 893,
+            "width": 242,
+            "height": 20
+        },
+        {
+            "id": 31,
+            "content": "Dining",
+            "column_min": 1350,
+            "row_min": 585,
+            "column_max": 1382,
+            "row_max": 595,
+            "width": 32,
+            "height": 10
+        },
+        {
+            "id": 32,
+            "content": "NIC",
+            "column_min": 1394,
+            "row_min": 256,
+            "column_max": 1418,
+            "row_max": 282,
+            "width": 24,
+            "height": 26
+        },
+        {
+            "id": 33,
+            "content": "Kitchen",
+            "column_min": 1350,
+            "row_min": 746,
+            "column_max": 1388,
+            "row_max": 753,
+            "width": 38,
+            "height": 7
+        },
+        {
+            "id": 34,
+            "content": "Refresh your",
+            "column_min": 1349,
+            "row_min": 433,
+            "column_max": 1479,
+            "row_max": 454,
+            "width": 130,
+            "height": 21
+        },
+        {
+            "id": 35,
+            "content": "space",
+            "column_min": 1484,
+            "row_min": 437,
+            "column_max": 1544,
+            "row_max": 457,
+            "width": 60,
+            "height": 20
+        },
+        {
+            "id": 36,
+            "content": "See more",
+            "column_min": 1349,
+            "row_min": 794,
+            "column_max": 1405,
+            "row_max": 804,
+            "width": 56,
+            "height": 10
+        },
+        {
+            "id": 37,
+            "content": "EN .",
+            "column_min": 1528,
+            "row_min": 28,
+            "column_max": 1555,
+            "row_max": 38,
+            "width": 27,
+            "height": 10
+        },
+        {
+            "id": 38,
+            "content": "Home",
+            "column_min": 1512,
+            "row_min": 585,
+            "column_max": 1543,
+            "row_max": 594,
+            "width": 31,
+            "height": 9
+        },
+        {
+            "id": 39,
+            "content": "Hello , sign in",
+            "column_min": 1581,
+            "row_min": 17,
+            "column_max": 1649,
+            "row_max": 26,
+            "width": 68,
+            "height": 9
+        },
+        {
+            "id": 40,
+            "content": "Account & Lists",
+            "column_min": 1581,
+            "row_min": 31,
+            "column_max": 1687,
+            "row_max": 40,
+            "width": 106,
+            "height": 9
+        },
+        {
+            "id": 41,
+            "content": "New customer ? Start here .",
+            "column_min": 1574,
+            "row_min": 114,
+            "column_max": 1707,
+            "row_max": 122,
+            "width": 133,
+            "height": 8
+        },
+        {
+            "id": 42,
+            "content": "Home d\u00e9cor under $ 50",
+            "column_min": 1350,
+            "row_min": 874,
+            "column_max": 1573,
+            "row_max": 890,
+            "width": 223,
+            "height": 16
+        },
+        {
+            "id": 43,
+            "content": "Sb",
+            "column_min": 1575,
+            "row_min": 671,
+            "column_max": 1592,
+            "row_max": 683,
+            "width": 17,
+            "height": 12
+        },
+        {
+            "id": 44,
+            "content": "Health and Beauty",
+            "column_min": 1513,
+            "row_min": 745,
+            "column_max": 1610,
+            "row_max": 756,
+            "width": 97,
+            "height": 11
+        },
+        {
+            "id": 45,
+            "content": "Sign in",
+            "column_min": 1621,
+            "row_min": 80,
+            "column_max": 1660,
+            "row_max": 92,
+            "width": 39,
+            "height": 12
+        },
+        {
+            "id": 46,
+            "content": "Returns",
+            "column_min": 1725,
+            "row_min": 17,
+            "column_max": 1766,
+            "row_max": 26,
+            "width": 41,
+            "height": 9
+        },
+        {
+            "id": 47,
+            "content": "&",
+            "column_min": 1725,
+            "row_min": 31,
+            "column_max": 1733,
+            "row_max": 40,
+            "width": 8,
+            "height": 9
+        },
+        {
+            "id": 48,
+            "content": "Orders",
+            "column_min": 1738,
+            "row_min": 29,
+            "column_max": 1782,
+            "row_max": 40,
+            "width": 44,
+            "height": 11
+        },
+        {
+            "id": 49,
+            "content": "Cart",
+            "column_min": 1847,
+            "row_min": 31,
+            "column_max": 1875,
+            "row_max": 40,
+            "width": 28,
+            "height": 9
+        }
+    ]
+}

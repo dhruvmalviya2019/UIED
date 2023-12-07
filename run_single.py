@@ -2,7 +2,33 @@ from os.path import join as pjoin
 import cv2
 import os
 import numpy as np
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 
+
+def take_screenshot(url, save_path):
+    # Set up Chrome options for headless browsing
+    chrome_options = Options()
+    chrome_options.add_argument('--headless')  # Run Chrome in headless mode
+    chrome_options.add_argument('--disable-gpu')  # Disable GPU acceleration
+
+    # Set a standard window size for screenshots
+    chrome_options.add_argument('--window-size=1920x1080')
+
+    # Initialize the Chrome WebDriver with the specified options
+    driver = webdriver.Chrome(options=chrome_options)
+
+    try:
+        # Open the provided URL
+        driver.get(url)
+
+        # Take a screenshot and save it
+        driver.save_screenshot(save_path)
+        print(f'Screenshot saved to: {save_path}')
+
+    finally:
+        # Close the WebDriver
+        driver.quit()
 
 def resize_height_by_longest_edge(img_path, resize_length=800):
     org = cv2.imread(img_path)
@@ -51,7 +77,11 @@ if __name__ == '__main__':
                   'merge-contained-ele':True, 'merge-line-to-paragraph':False, 'remove-bar':True}
 
     # set input image path
-    input_path_img = 'data/input/x.jpg'
+    website_url = 'https://amazon.com'
+    screenshot_path = 'data/input/ss.png'
+    take_screenshot(website_url, screenshot_path)
+
+    input_path_img = 'data/input/ss.png'
     output_root = 'data/output'
 
     resized_height = resize_height_by_longest_edge(input_path_img, resize_length=800)
