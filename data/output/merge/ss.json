@@ -1,0 +1,651 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 6,
+            "width": 9,
+            "position": {
+                "column_min": 625,
+                "row_min": 11,
+                "column_max": 634,
+                "row_max": 17
+            }
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 6,
+            "width": 7,
+            "position": {
+                "column_min": 9,
+                "row_min": 30,
+                "column_max": 16,
+                "row_max": 36
+            }
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 14,
+            "width": 56,
+            "position": {
+                "column_min": 655,
+                "row_min": 29,
+                "column_max": 711,
+                "row_max": 43
+            }
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 13,
+            "width": 50,
+            "position": {
+                "column_min": 180,
+                "row_min": 53,
+                "column_max": 230,
+                "row_max": 66
+            }
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 49,
+            "width": 48,
+            "position": {
+                "column_min": 106,
+                "row_min": 194,
+                "column_max": 154,
+                "row_max": 243
+            }
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 127,
+            "width": 130,
+            "position": {
+                "column_min": 253,
+                "row_min": 194,
+                "column_max": 383,
+                "row_max": 321
+            }
+        },
+        {
+            "id": 6,
+            "class": "Compo",
+            "height": 127,
+            "width": 130,
+            "position": {
+                "column_min": 407,
+                "row_min": 194,
+                "column_max": 537,
+                "row_max": 321
+            }
+        },
+        {
+            "id": 7,
+            "class": "Compo",
+            "height": 55,
+            "width": 62,
+            "position": {
+                "column_min": 561,
+                "row_min": 194,
+                "column_max": 623,
+                "row_max": 249
+            }
+        },
+        {
+            "id": 8,
+            "class": "Compo",
+            "height": 54,
+            "width": 62,
+            "position": {
+                "column_min": 629,
+                "row_min": 194,
+                "column_max": 691,
+                "row_max": 248
+            }
+        },
+        {
+            "id": 9,
+            "class": "Compo",
+            "height": 32,
+            "width": 59,
+            "position": {
+                "column_min": 168,
+                "row_min": 202,
+                "column_max": 227,
+                "row_max": 234
+            }
+        },
+        {
+            "id": 10,
+            "class": "Compo",
+            "height": 54,
+            "width": 62,
+            "position": {
+                "column_min": 561,
+                "row_min": 261,
+                "column_max": 623,
+                "row_max": 315
+            }
+        },
+        {
+            "id": 11,
+            "class": "Compo",
+            "height": 55,
+            "width": 62,
+            "position": {
+                "column_min": 629,
+                "row_min": 261,
+                "column_max": 691,
+                "row_max": 316
+            }
+        },
+        {
+            "id": 12,
+            "class": "Compo",
+            "height": 40,
+            "width": 23,
+            "position": {
+                "column_min": 187,
+                "row_min": 266,
+                "column_max": 210,
+                "row_max": 306
+            }
+        },
+        {
+            "id": 13,
+            "class": "Compo",
+            "height": 28,
+            "width": 49,
+            "position": {
+                "column_min": 105,
+                "row_min": 271,
+                "column_max": 154,
+                "row_max": 299
+            }
+        },
+        {
+            "id": 14,
+            "class": "Compo",
+            "height": 95,
+            "width": 145,
+            "position": {
+                "column_min": 92,
+                "row_min": 354,
+                "column_max": 237,
+                "row_max": 449
+            }
+        },
+        {
+            "id": 15,
+            "class": "Block",
+            "height": 95,
+            "width": 145,
+            "position": {
+                "column_min": 246,
+                "row_min": 354,
+                "column_max": 391,
+                "row_max": 449
+            },
+            "children": [
+                18,
+                19,
+                38
+            ]
+        },
+        {
+            "id": 16,
+            "class": "Compo",
+            "height": 95,
+            "width": 145,
+            "position": {
+                "column_min": 400,
+                "row_min": 354,
+                "column_max": 545,
+                "row_max": 449
+            }
+        },
+        {
+            "id": 17,
+            "class": "Compo",
+            "height": 95,
+            "width": 145,
+            "position": {
+                "column_min": 554,
+                "row_min": 354,
+                "column_max": 699,
+                "row_max": 449
+            },
+            "children": [
+                20,
+                21
+            ]
+        },
+        {
+            "id": 18,
+            "class": "Compo",
+            "height": 55,
+            "width": 62,
+            "position": {
+                "column_min": 253,
+                "row_min": 377,
+                "column_max": 315,
+                "row_max": 432
+            },
+            "parent": 15
+        },
+        {
+            "id": 19,
+            "class": "Compo",
+            "height": 55,
+            "width": 62,
+            "position": {
+                "column_min": 321,
+                "row_min": 377,
+                "column_max": 383,
+                "row_max": 432
+            },
+            "parent": 15
+        },
+        {
+            "id": 20,
+            "class": "Compo",
+            "height": 49,
+            "width": 19,
+            "position": {
+                "column_min": 582,
+                "row_min": 399,
+                "column_max": 601,
+                "row_max": 448
+            },
+            "parent": 17
+        },
+        {
+            "id": 21,
+            "class": "Compo",
+            "height": 48,
+            "width": 16,
+            "position": {
+                "column_min": 653,
+                "row_min": 400,
+                "column_max": 669,
+                "row_max": 448
+            },
+            "parent": 17
+        },
+        {
+            "id": 22,
+            "class": "Text",
+            "height": 6,
+            "width": 9,
+            "position": {
+                "column_min": 17,
+                "row_min": 29,
+                "column_max": 26,
+                "row_max": 35
+            },
+            "text_content": "All"
+        },
+        {
+            "id": 23,
+            "class": "Text",
+            "height": 5,
+            "width": 15,
+            "position": {
+                "column_min": 36,
+                "row_min": 30,
+                "column_max": 51,
+                "row_max": 35
+            },
+            "text_content": "Today"
+        },
+        {
+            "id": 24,
+            "class": "Text",
+            "height": 5,
+            "width": 169,
+            "position": {
+                "column_min": 61,
+                "row_min": 33,
+                "column_max": 230,
+                "row_max": 38
+            },
+            "text_content": "We're showing you items that ship to India . To see items that ship"
+        },
+        {
+            "id": 25,
+            "class": "Text",
+            "height": 6,
+            "width": 134,
+            "position": {
+                "column_min": 61,
+                "row_min": 41,
+                "column_max": 195,
+                "row_max": 47
+            },
+            "text_content": "to a different country , change your delivery address ."
+        },
+        {
+            "id": 26,
+            "class": "Text",
+            "height": 6,
+            "width": 18,
+            "position": {
+                "column_min": 152,
+                "row_min": 56,
+                "column_max": 170,
+                "row_max": 62
+            },
+            "text_content": "Dismiss"
+        },
+        {
+            "id": 27,
+            "class": "Text",
+            "height": 8,
+            "width": 83,
+            "position": {
+                "column_min": 100,
+                "row_min": 180,
+                "column_max": 183,
+                "row_max": 188
+            },
+            "text_content": "Gaming accessories"
+        },
+        {
+            "id": 28,
+            "class": "Text",
+            "height": 3,
+            "width": 20,
+            "position": {
+                "column_min": 100,
+                "row_min": 244,
+                "column_max": 120,
+                "row_max": 247
+            },
+            "text_content": "Headsets"
+        },
+        {
+            "id": 29,
+            "class": "Text",
+            "height": 5,
+            "width": 32,
+            "position": {
+                "column_min": 100,
+                "row_min": 310,
+                "column_max": 132,
+                "row_max": 315
+            },
+            "text_content": "Computer mice"
+        },
+        {
+            "id": 30,
+            "class": "Text",
+            "height": 5,
+            "width": 24,
+            "position": {
+                "column_min": 99,
+                "row_min": 330,
+                "column_max": 123,
+                "row_max": 335
+            },
+            "text_content": "See more"
+        },
+        {
+            "id": 31,
+            "class": "Text",
+            "height": 5,
+            "width": 23,
+            "position": {
+                "column_min": 167,
+                "row_min": 243,
+                "column_max": 190,
+                "row_max": 248
+            },
+            "text_content": "Keyboards"
+        },
+        {
+            "id": 32,
+            "class": "Text",
+            "height": 4,
+            "width": 14,
+            "position": {
+                "column_min": 167,
+                "row_min": 310,
+                "column_max": 181,
+                "row_max": 314
+            },
+            "text_content": "Chairs"
+        },
+        {
+            "id": 33,
+            "class": "Text",
+            "height": 14,
+            "width": 113,
+            "position": {
+                "column_min": 242,
+                "row_min": 75,
+                "column_max": 355,
+                "row_max": 89
+            },
+            "text_content": "Delightful deals"
+        },
+        {
+            "id": 34,
+            "class": "Text",
+            "height": 15,
+            "width": 92,
+            "position": {
+                "column_min": 240,
+                "row_min": 93,
+                "column_max": 332,
+                "row_max": 108
+            },
+            "text_content": "for everyone"
+        },
+        {
+            "id": 35,
+            "class": "Text",
+            "height": 5,
+            "width": 355,
+            "position": {
+                "column_min": 217,
+                "row_min": 151,
+                "column_max": 572,
+                "row_max": 156
+            },
+            "text_content": "You are on amazon.com . You can also shop on Amazon India for millions of products with fast local delivery . Click here to go to amazon.in"
+        },
+        {
+            "id": 36,
+            "class": "Text",
+            "height": 8,
+            "width": 63,
+            "position": {
+                "column_min": 254,
+                "row_min": 180,
+                "column_max": 317,
+                "row_max": 188
+            },
+            "text_content": "Toys under $ 25"
+        },
+        {
+            "id": 37,
+            "class": "Text",
+            "height": 5,
+            "width": 24,
+            "position": {
+                "column_min": 253,
+                "row_min": 330,
+                "column_max": 277,
+                "row_max": 335
+            },
+            "text_content": "Shop now"
+        },
+        {
+            "id": 38,
+            "class": "Text",
+            "height": 10,
+            "width": 91,
+            "position": {
+                "column_min": 254,
+                "row_min": 362,
+                "column_max": 345,
+                "row_max": 372
+            },
+            "text_content": "Shop deals in Fashion",
+            "parent": 15
+        },
+        {
+            "id": 39,
+            "class": "Text",
+            "height": 4,
+            "width": 13,
+            "position": {
+                "column_min": 452,
+                "row_min": 42,
+                "column_max": 465,
+                "row_max": 46
+            },
+            "text_content": "sarah"
+        },
+        {
+            "id": 40,
+            "class": "Text",
+            "height": 5,
+            "width": 53,
+            "position": {
+                "column_min": 408,
+                "row_min": 181,
+                "column_max": 461,
+                "row_max": 186
+            },
+            "text_content": "Deals in PCs"
+        },
+        {
+            "id": 41,
+            "class": "Text",
+            "height": 5,
+            "width": 24,
+            "position": {
+                "column_min": 407,
+                "row_min": 330,
+                "column_max": 431,
+                "row_max": 335
+            },
+            "text_content": "Shop now"
+        },
+        {
+            "id": 42,
+            "class": "Text",
+            "height": 11,
+            "width": 10,
+            "position": {
+                "column_min": 580,
+                "row_min": 106,
+                "column_max": 590,
+                "row_max": 117
+            },
+            "text_content": "NIC"
+        },
+        {
+            "id": 43,
+            "class": "Text",
+            "height": 9,
+            "width": 54,
+            "position": {
+                "column_min": 562,
+                "row_min": 180,
+                "column_max": 616,
+                "row_max": 189
+            },
+            "text_content": "Refresh your"
+        },
+        {
+            "id": 44,
+            "class": "Text",
+            "height": 8,
+            "width": 25,
+            "position": {
+                "column_min": 618,
+                "row_min": 182,
+                "column_max": 643,
+                "row_max": 190
+            },
+            "text_content": "space"
+        },
+        {
+            "id": 45,
+            "class": "Text",
+            "height": 5,
+            "width": 23,
+            "position": {
+                "column_min": 562,
+                "row_min": 330,
+                "column_max": 585,
+                "row_max": 335
+            },
+            "text_content": "See more"
+        },
+        {
+            "id": 46,
+            "class": "Text",
+            "height": 4,
+            "width": 11,
+            "position": {
+                "column_min": 636,
+                "row_min": 11,
+                "column_max": 647,
+                "row_max": 15
+            },
+            "text_content": "EN ."
+        },
+        {
+            "id": 47,
+            "class": "Text",
+            "height": 4,
+            "width": 44,
+            "position": {
+                "column_min": 658,
+                "row_min": 12,
+                "column_max": 702,
+                "row_max": 16
+            },
+            "text_content": "Account & Lists"
+        },
+        {
+            "id": 48,
+            "class": "Text",
+            "height": 3,
+            "width": 56,
+            "position": {
+                "column_min": 655,
+                "row_min": 47,
+                "column_max": 711,
+                "row_max": 50
+            },
+            "text_content": "New customer ? Start here ."
+        },
+        {
+            "id": 49,
+            "class": "Text",
+            "height": 4,
+            "width": 12,
+            "position": {
+                "column_min": 769,
+                "row_min": 12,
+                "column_max": 781,
+                "row_max": 16
+            },
+            "text_content": "Cart"
+        }
+    ],
+    "img_shape": [
+        450,
+        800,
+        3
+    ]
+}
