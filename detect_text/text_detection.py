@@ -158,5 +158,3 @@ def text_detection(input_file='../data/input/30800.jpg', output_file='../data/ou
     print("[Text Detection Completed in %.3f s] Input: %s Output: %s" % (time.perf_counter() - start, input_file, pjoin(ocr_root, name+'.json')))
 
 
-# text_detection()
-

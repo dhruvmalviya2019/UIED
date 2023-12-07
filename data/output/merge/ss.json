@@ -2,728 +2,934 @@
     "compos": [
         {
             "id": 0,
-            "class": "ImageView",
-            "height": 6,
-            "width": 9,
+            "class": "TextView",
+            "height": 16,
+            "width": 41,
             "position": {
-                "column_min": 625,
-                "row_min": 11,
-                "column_max": 634,
-                "row_max": 17,
-                "Centroid_x": 629.5,
-                "Centroid_y": 14.0
+                "column_min": 607,
+                "row_min": 33,
+                "column_max": 648,
+                "row_max": 49,
+                "Centroid_x": 627.5,
+                "Centroid_y": 41.0
             }
         },
         {
             "id": 1,
-            "class": "ImageButton",
-            "height": 6,
-            "width": 7,
+            "class": "TextView",
+            "height": 14,
+            "width": 67,
             "position": {
-                "column_min": 9,
-                "row_min": 30,
-                "column_max": 16,
-                "row_max": 36,
-                "Centroid_x": 12.5,
-                "Centroid_y": 33.0
+                "column_min": 133,
+                "row_min": 47,
+                "column_max": 200,
+                "row_max": 61,
+                "Centroid_x": 166.5,
+                "Centroid_y": 54.0
             }
         },
         {
             "id": 2,
-            "class": "TextView",
-            "height": 14,
-            "width": 56,
+            "class": "ImageView",
+            "height": 6,
+            "width": 22,
             "position": {
-                "column_min": 655,
-                "row_min": 29,
-                "column_max": 711,
-                "row_max": 43,
-                "Centroid_x": 683.0,
-                "Centroid_y": 36.0
+                "column_min": 227,
+                "row_min": 53,
+                "column_max": 249,
+                "row_max": 59,
+                "Centroid_x": 238.0,
+                "Centroid_y": 56.0
             }
         },
         {
             "id": 3,
-            "class": "TextView",
-            "height": 13,
-            "width": 50,
+            "class": "ImageView",
+            "height": 6,
+            "width": 22,
             "position": {
-                "column_min": 180,
+                "column_min": 310,
                 "row_min": 53,
-                "column_max": 230,
-                "row_max": 66,
-                "Centroid_x": 205.0,
-                "Centroid_y": 59.5
+                "column_max": 332,
+                "row_max": 59,
+                "Centroid_x": 321.0,
+                "Centroid_y": 56.0
             }
         },
         {
             "id": 4,
-            "class": "ImageView",
-            "height": 49,
-            "width": 48,
+            "class": "ImageButton",
+            "height": 18,
+            "width": 17,
             "position": {
-                "column_min": 106,
-                "row_min": 194,
-                "column_max": 154,
-                "row_max": 243,
-                "Centroid_x": 130.0,
-                "Centroid_y": 218.5
+                "column_min": 210,
+                "row_min": 72,
+                "column_max": 227,
+                "row_max": 90,
+                "Centroid_x": 218.5,
+                "Centroid_y": 81.0
             }
         },
         {
             "id": 5,
-            "class": "ImageView",
-            "height": 127,
-            "width": 130,
+            "class": "TextView",
+            "height": 45,
+            "width": 274,
             "position": {
-                "column_min": 253,
-                "row_min": 194,
-                "column_max": 383,
-                "row_max": 321,
-                "Centroid_x": 318.0,
-                "Centroid_y": 257.5
+                "column_min": 233,
+                "row_min": 72,
+                "column_max": 507,
+                "row_max": 117,
+                "Centroid_x": 370.0,
+                "Centroid_y": 94.5
             }
         },
         {
             "id": 6,
             "class": "ImageView",
-            "height": 127,
-            "width": 130,
+            "height": 181,
+            "width": 125,
             "position": {
-                "column_min": 407,
-                "row_min": 194,
-                "column_max": 537,
-                "row_max": 321,
-                "Centroid_x": 472.0,
-                "Centroid_y": 257.5
-            }
+                "column_min": 523,
+                "row_min": 72,
+                "column_max": 648,
+                "row_max": 253,
+                "Centroid_x": 585.5,
+                "Centroid_y": 162.5
+            },
+            "children": [
+                23,
+                24
+            ]
         },
         {
             "id": 7,
             "class": "ImageView",
-            "height": 55,
-            "width": 62,
+            "height": 17,
+            "width": 17,
             "position": {
-                "column_min": 561,
-                "row_min": 194,
-                "column_max": 623,
-                "row_max": 249,
-                "Centroid_x": 592.0,
-                "Centroid_y": 221.5
+                "column_min": 210,
+                "row_min": 107,
+                "column_max": 227,
+                "row_max": 124,
+                "Centroid_x": 218.5,
+                "Centroid_y": 115.5
             }
         },
         {
             "id": 8,
             "class": "ImageView",
-            "height": 54,
-            "width": 62,
+            "height": 126,
+            "width": 254,
             "position": {
-                "column_min": 629,
-                "row_min": 194,
-                "column_max": 691,
-                "row_max": 248,
-                "Centroid_x": 660.0,
-                "Centroid_y": 221.0
+                "column_min": 241,
+                "row_min": 154,
+                "column_max": 495,
+                "row_max": 280,
+                "Centroid_x": 368.0,
+                "Centroid_y": 217.0
             }
         },
         {
             "id": 9,
             "class": "ImageView",
-            "height": 32,
-            "width": 59,
+            "height": 8,
+            "width": 7,
             "position": {
-                "column_min": 168,
-                "row_min": 202,
-                "column_max": 227,
-                "row_max": 234,
-                "Centroid_x": 197.5,
-                "Centroid_y": 218.0
+                "column_min": 135,
+                "row_min": 138,
+                "column_max": 142,
+                "row_max": 146,
+                "Centroid_x": 138.5,
+                "Centroid_y": 142.0
             }
         },
         {
             "id": 10,
             "class": "ImageView",
-            "height": 54,
-            "width": 62,
+            "height": 243,
+            "width": 195,
             "position": {
-                "column_min": 561,
-                "row_min": 261,
-                "column_max": 623,
-                "row_max": 315,
-                "Centroid_x": 592.0,
-                "Centroid_y": 288.0
-            }
+                "column_min": 5,
+                "row_min": 201,
+                "column_max": 200,
+                "row_max": 444,
+                "Centroid_x": 102.5,
+                "Centroid_y": 322.5
+            },
+            "children": [
+                11,
+                15,
+                18,
+                19,
+                20,
+                25,
+                26
+            ]
         },
         {
             "id": 11,
             "class": "ImageView",
-            "height": 55,
-            "width": 62,
+            "height": 36,
+            "width": 48,
             "position": {
-                "column_min": 629,
-                "row_min": 261,
-                "column_max": 691,
-                "row_max": 316,
-                "Centroid_x": 660.0,
-                "Centroid_y": 288.5
-            }
+                "column_min": 140,
+                "row_min": 251,
+                "column_max": 188,
+                "row_max": 287,
+                "Centroid_x": 164.0,
+                "Centroid_y": 269.0
+            },
+            "parent": 10
         },
         {
             "id": 12,
             "class": "ImageView",
-            "height": 40,
-            "width": 23,
+            "height": 10,
+            "width": 16,
             "position": {
-                "column_min": 187,
-                "row_min": 266,
-                "column_max": 210,
-                "row_max": 306,
-                "Centroid_x": 198.5,
-                "Centroid_y": 286.0
+                "column_min": 523,
+                "row_min": 279,
+                "column_max": 539,
+                "row_max": 289,
+                "Centroid_x": 531.0,
+                "Centroid_y": 284.0
             }
         },
         {
             "id": 13,
             "class": "ImageView",
-            "height": 28,
-            "width": 49,
+            "height": 10,
+            "width": 16,
             "position": {
-                "column_min": 105,
-                "row_min": 271,
-                "column_max": 154,
-                "row_max": 299,
-                "Centroid_x": 129.5,
-                "Centroid_y": 285.0
+                "column_min": 523,
+                "row_min": 295,
+                "column_max": 539,
+                "row_max": 305,
+                "Centroid_x": 531.0,
+                "Centroid_y": 300.0
             }
         },
         {
             "id": 14,
-            "class": "TextView",
-            "height": 95,
-            "width": 145,
+            "class": "ImageView",
+            "height": 148,
+            "width": 274,
             "position": {
-                "column_min": 92,
-                "row_min": 354,
-                "column_max": 237,
-                "row_max": 449,
-                "Centroid_x": 164.5,
-                "Centroid_y": 401.5
+                "column_min": 233,
+                "row_min": 296,
+                "column_max": 507,
+                "row_max": 444,
+                "Centroid_x": 370.0,
+                "Centroid_y": 370.0
             }
         },
         {
             "id": 15,
             "class": "ImageView",
-            "height": 95,
-            "width": 145,
+            "height": 38,
+            "width": 37,
             "position": {
-                "column_min": 246,
-                "row_min": 354,
-                "column_max": 391,
-                "row_max": 449,
-                "Centroid_x": 318.5,
-                "Centroid_y": 401.5
+                "column_min": 19,
+                "row_min": 308,
+                "column_max": 56,
+                "row_max": 346,
+                "Centroid_x": 37.5,
+                "Centroid_y": 327.0
             },
-            "children": [
-                18,
-                19
-            ]
+            "parent": 25
         },
         {
             "id": 16,
-            "class": "ImageButton",
-            "height": 95,
-            "width": 145,
+            "class": "ImageView",
+            "height": 10,
+            "width": 16,
             "position": {
-                "column_min": 400,
-                "row_min": 354,
-                "column_max": 545,
-                "row_max": 449,
-                "Centroid_x": 472.5,
-                "Centroid_y": 401.5
+                "column_min": 523,
+                "row_min": 321,
+                "column_max": 539,
+                "row_max": 331,
+                "Centroid_x": 531.0,
+                "Centroid_y": 326.0
             }
         },
         {
             "id": 17,
             "class": "ImageView",
-            "height": 95,
-            "width": 145,
+            "height": 10,
+            "width": 16,
             "position": {
-                "column_min": 554,
-                "row_min": 354,
-                "column_max": 699,
-                "row_max": 449,
-                "Centroid_x": 626.5,
-                "Centroid_y": 401.5
-            },
-            "children": [
-                20,
-                21
-            ]
+                "column_min": 523,
+                "row_min": 340,
+                "column_max": 539,
+                "row_max": 350,
+                "Centroid_x": 531.0,
+                "Centroid_y": 345.0
+            }
         },
         {
             "id": 18,
-            "class": "ImageView",
-            "height": 55,
-            "width": 62,
+            "class": "TextView",
+            "height": 16,
+            "width": 73,
             "position": {
-                "column_min": 253,
-                "row_min": 377,
-                "column_max": 315,
-                "row_max": 432,
-                "Centroid_x": 284.0,
-                "Centroid_y": 404.5
+                "column_min": 19,
+                "row_min": 395,
+                "column_max": 92,
+                "row_max": 411,
+                "Centroid_x": 55.5,
+                "Centroid_y": 403.0
             },
-            "parent": 15
+            "parent": 25
         },
         {
             "id": 19,
-            "class": "ImageView",
-            "height": 55,
-            "width": 62,
+            "class": "TextView",
+            "height": 16,
+            "width": 73,
             "position": {
-                "column_min": 321,
-                "row_min": 377,
-                "column_max": 383,
-                "row_max": 432,
-                "Centroid_x": 352.0,
-                "Centroid_y": 404.5
+                "column_min": 95,
+                "row_min": 395,
+                "column_max": 168,
+                "row_max": 411,
+                "Centroid_x": 131.5,
+                "Centroid_y": 403.0
             },
-            "parent": 15
+            "parent": 25
         },
         {
             "id": 20,
-            "class": "ImageView",
-            "height": 49,
-            "width": 19,
+            "class": "TextView",
+            "height": 16,
+            "width": 149,
             "position": {
-                "column_min": 582,
-                "row_min": 399,
-                "column_max": 601,
-                "row_max": 448,
-                "Centroid_x": 591.5,
-                "Centroid_y": 423.5
+                "column_min": 19,
+                "row_min": 414,
+                "column_max": 168,
+                "row_max": 430,
+                "Centroid_x": 93.5,
+                "Centroid_y": 422.0
             },
-            "parent": 17
+            "parent": 25
         },
         {
             "id": 21,
             "class": "ImageView",
-            "height": 48,
+            "height": 11,
             "width": 16,
             "position": {
-                "column_min": 653,
-                "row_min": 400,
-                "column_max": 669,
-                "row_max": 448,
-                "Centroid_x": 661.0,
-                "Centroid_y": 424.0
-            },
-            "parent": 17
+                "column_min": 523,
+                "row_min": 414,
+                "column_max": 539,
+                "row_max": 425,
+                "Centroid_x": 531.0,
+                "Centroid_y": 419.5
+            }
         },
         {
             "id": 22,
-            "class": "Text",
-            "height": 6,
-            "width": 9,
+            "class": "ImageView",
+            "height": 10,
+            "width": 16,
             "position": {
-                "column_min": 17,
-                "row_min": 29,
-                "column_max": 26,
-                "row_max": 35,
-                "Centroid_x": 53.0,
-                "Centroid_y": 77.5
-            },
-            "text_content": "All"
+                "column_min": 523,
+                "row_min": 431,
+                "column_max": 539,
+                "row_max": 441,
+                "Centroid_x": 531.0,
+                "Centroid_y": 436.0
+            }
         },
         {
             "id": 23,
-            "class": "Text",
-            "height": 5,
-            "width": 15,
+            "class": "TextView",
+            "height": 49,
+            "width": 122,
             "position": {
-                "column_min": 36,
-                "row_min": 30,
-                "column_max": 51,
-                "row_max": 35,
-                "Centroid_x": 105.5,
-                "Centroid_y": 78.5
+                "column_min": 525,
+                "row_min": 90,
+                "column_max": 647,
+                "row_max": 139,
+                "Centroid_x": 586.0,
+                "Centroid_y": 114.5
             },
-            "text_content": "Today"
+            "parent": 6
         },
         {
             "id": 24,
-            "class": "Text",
-            "height": 5,
-            "width": 169,
+            "class": "ImageView",
+            "height": 94,
+            "width": 122,
             "position": {
-                "column_min": 61,
-                "row_min": 33,
-                "column_max": 230,
-                "row_max": 38,
-                "Centroid_x": 350.0,
-                "Centroid_y": 86.5
+                "column_min": 525,
+                "row_min": 158,
+                "column_max": 647,
+                "row_max": 252,
+                "Centroid_x": 586.0,
+                "Centroid_y": 205.0
             },
-            "text_content": "We're showing you items that ship to India . To see items that ship"
+            "parent": 6
         },
         {
             "id": 25,
-            "class": "Text",
-            "height": 6,
-            "width": 134,
+            "class": "ImageView",
+            "height": 148,
+            "width": 174,
             "position": {
-                "column_min": 61,
-                "row_min": 41,
-                "column_max": 195,
-                "row_max": 47,
-                "Centroid_x": 307.5,
-                "Centroid_y": 106.5
+                "column_min": 7,
+                "row_min": 294,
+                "column_max": 181,
+                "row_max": 442,
+                "Centroid_x": 94.0,
+                "Centroid_y": 368.0
             },
-            "text_content": "to a different country , change your delivery address ."
+            "children": [
+                15,
+                18,
+                19,
+                20
+            ],
+            "parent": 10
         },
         {
             "id": 26,
-            "class": "Text",
-            "height": 6,
-            "width": 18,
+            "class": "ImageView",
+            "height": 120,
+            "width": 19,
             "position": {
-                "column_min": 152,
-                "row_min": 56,
-                "column_max": 170,
-                "row_max": 62,
-                "Centroid_x": 388.0,
-                "Centroid_y": 142.5
+                "column_min": 180,
+                "row_min": 323,
+                "column_max": 199,
+                "row_max": 443,
+                "Centroid_x": 189.5,
+                "Centroid_y": 383.0
             },
-            "text_content": "Dismiss"
+            "parent": 10
         },
         {
             "id": 27,
             "class": "Text",
-            "height": 8,
-            "width": 83,
+            "height": 3,
+            "width": 14,
             "position": {
-                "column_min": 100,
-                "row_min": 180,
-                "column_max": 183,
-                "row_max": 188,
-                "Centroid_x": 340.5,
-                "Centroid_y": 443.5
+                "column_min": 206,
+                "row_min": 10,
+                "column_max": 220,
+                "row_max": 13,
+                "Centroid_x": 512.5,
+                "Centroid_y": 28.5
             },
-            "text_content": "Gaming accessories"
+            "text_content": "About"
         },
         {
             "id": 28,
             "class": "Text",
             "height": 3,
-            "width": 20,
+            "width": 21,
             "position": {
-                "column_min": 100,
-                "row_min": 244,
-                "column_max": 120,
-                "row_max": 247,
-                "Centroid_x": 264.5,
-                "Centroid_y": 590.0
+                "column_min": 232,
+                "row_min": 10,
+                "column_max": 253,
+                "row_max": 13,
+                "Centroid_x": 584.0,
+                "Centroid_y": 28.5
             },
-            "text_content": "Headsets"
+            "text_content": "Products"
         },
         {
             "id": 29,
             "class": "Text",
-            "height": 5,
-            "width": 32,
+            "height": 3,
+            "width": 24,
             "position": {
-                "column_min": 100,
-                "row_min": 310,
-                "column_max": 132,
-                "row_max": 315,
-                "Centroid_x": 279.5,
-                "Centroid_y": 750.0
+                "column_min": 265,
+                "row_min": 10,
+                "column_max": 289,
+                "row_max": 13,
+                "Centroid_x": 665.5,
+                "Centroid_y": 29.0
             },
-            "text_content": "Computer mice"
+            "text_content": "For Teams"
         },
         {
             "id": 30,
             "class": "Text",
-            "height": 5,
-            "width": 24,
+            "height": 4,
+            "width": 14,
             "position": {
-                "column_min": 99,
-                "row_min": 330,
-                "column_max": 123,
-                "row_max": 335,
-                "Centroid_x": 267.5,
-                "Centroid_y": 799.0
+                "column_min": 145,
+                "row_min": 37,
+                "column_max": 159,
+                "row_max": 41,
+                "Centroid_x": 366.5,
+                "Centroid_y": 95.0
             },
-            "text_content": "See more"
+            "text_content": "Home"
         },
         {
             "id": 31,
             "class": "Text",
-            "height": 5,
-            "width": 23,
+            "height": 4,
+            "width": 10,
             "position": {
-                "column_min": 167,
-                "row_min": 243,
-                "column_max": 190,
-                "row_max": 248,
-                "Centroid_x": 430.5,
-                "Centroid_y": 590.5
+                "column_min": 145,
+                "row_min": 65,
+                "column_max": 155,
+                "row_max": 69,
+                "Centroid_x": 361.0,
+                "Centroid_y": 161.5
             },
-            "text_content": "Keyboards"
+            "text_content": "Tags"
         },
         {
             "id": 32,
             "class": "Text",
-            "height": 4,
-            "width": 14,
+            "height": 3,
+            "width": 13,
             "position": {
-                "column_min": 167,
-                "row_min": 310,
-                "column_max": 181,
-                "row_max": 314,
-                "Centroid_x": 418.5,
-                "Centroid_y": 749.5
+                "column_min": 145,
+                "row_min": 89,
+                "column_max": 158,
+                "row_max": 92,
+                "Centroid_x": 365.0,
+                "Centroid_y": 218.5
             },
-            "text_content": "Chairs"
+            "text_content": "Users"
         },
         {
             "id": 33,
             "class": "Text",
-            "height": 14,
-            "width": 113,
+            "height": 5,
+            "width": 27,
             "position": {
-                "column_min": 242,
-                "row_min": 75,
-                "column_max": 355,
-                "row_max": 89,
-                "Centroid_x": 717.5,
-                "Centroid_y": 197.5
+                "column_min": 145,
+                "row_min": 102,
+                "column_max": 172,
+                "row_max": 107,
+                "Centroid_x": 381.0,
+                "Centroid_y": 252.5
             },
-            "text_content": "Delightful deals"
+            "text_content": "Companies"
         },
         {
             "id": 34,
             "class": "Text",
-            "height": 15,
-            "width": 92,
+            "height": 4,
+            "width": 28,
             "position": {
-                "column_min": 240,
-                "row_min": 93,
-                "column_max": 332,
-                "row_max": 108,
-                "Centroid_x": 687.5,
-                "Centroid_y": 242.5
+                "column_min": 135,
+                "row_min": 125,
+                "column_max": 163,
+                "row_max": 129,
+                "Centroid_x": 359.0,
+                "Centroid_y": 306.5
             },
-            "text_content": "for everyone"
+            "text_content": "COLLECTIVES"
         },
         {
             "id": 35,
             "class": "Text",
             "height": 5,
-            "width": 355,
+            "width": 44,
             "position": {
-                "column_min": 217,
-                "row_min": 151,
-                "column_max": 572,
-                "row_max": 156,
-                "Centroid_x": 948.0,
-                "Centroid_y": 369.5
+                "column_min": 145,
+                "row_min": 139,
+                "column_max": 189,
+                "row_max": 144,
+                "Centroid_x": 402.0,
+                "Centroid_y": 340.0
             },
-            "text_content": "You are on amazon.com . You can also shop on Amazon India for millions of products with fast local delivery . Click here to go to amazon.in"
+            "text_content": "Explore Collectives"
         },
         {
             "id": 36,
             "class": "Text",
-            "height": 8,
-            "width": 63,
+            "height": 4,
+            "width": 11,
             "position": {
-                "column_min": 254,
-                "row_min": 180,
-                "column_max": 317,
-                "row_max": 188,
-                "Centroid_x": 685.5,
-                "Centroid_y": 442.5
+                "column_min": 135,
+                "row_min": 162,
+                "column_max": 146,
+                "row_max": 166,
+                "Centroid_x": 338.5,
+                "Centroid_y": 394.5
             },
-            "text_content": "Toys under $ 25"
+            "text_content": "LABS"
         },
         {
             "id": 37,
             "class": "Text",
             "height": 5,
-            "width": 24,
+            "width": 27,
             "position": {
-                "column_min": 253,
-                "row_min": 330,
-                "column_max": 277,
-                "row_max": 335,
-                "Centroid_x": 637.5,
-                "Centroid_y": 799.5
+                "column_min": 144,
+                "row_min": 175,
+                "column_max": 171,
+                "row_max": 180,
+                "Centroid_x": 379.0,
+                "Centroid_y": 427.5
             },
-            "text_content": "Shop now"
+            "text_content": "Discussions"
         },
         {
             "id": 38,
             "class": "Text",
             "height": 4,
-            "width": 13,
+            "width": 15,
             "position": {
-                "column_min": 452,
-                "row_min": 42,
-                "column_max": 465,
-                "row_max": 46,
-                "Centroid_x": 1100.5,
-                "Centroid_y": 107.5
+                "column_min": 135,
+                "row_min": 192,
+                "column_max": 150,
+                "row_max": 196,
+                "Centroid_x": 343.5,
+                "Centroid_y": 466.5
             },
-            "text_content": "sarah"
+            "text_content": "TEAMS"
         },
         {
             "id": 39,
             "class": "Text",
-            "height": 5,
-            "width": 53,
+            "height": 11,
+            "width": 323,
             "position": {
-                "column_min": 408,
-                "row_min": 181,
-                "column_max": 461,
-                "row_max": 186,
-                "Centroid_x": 1043.5,
-                "Centroid_y": 441.5
+                "column_min": 211,
+                "row_min": 35,
+                "column_max": 534,
+                "row_max": 46,
+                "Centroid_x": 895.0,
+                "Centroid_y": 98.5
             },
-            "text_content": "Deals in PCs"
+            "text_content": "how to run python files in windows command prompt ? duplicate"
         },
         {
             "id": 40,
             "class": "Text",
             "height": 5,
-            "width": 24,
+            "width": 15,
             "position": {
-                "column_min": 407,
-                "row_min": 330,
-                "column_max": 431,
-                "row_max": 335,
-                "Centroid_x": 1007.5,
-                "Centroid_y": 799.5
+                "column_min": 210,
+                "row_min": 52,
+                "column_max": 225,
+                "row_max": 57,
+                "Centroid_x": 522.5,
+                "Centroid_y": 132.5
             },
-            "text_content": "Shop now"
+            "text_content": "Asked"
         },
         {
             "id": 41,
             "class": "Text",
-            "height": 11,
-            "width": 10,
+            "height": 5,
+            "width": 29,
             "position": {
-                "column_min": 580,
-                "row_min": 106,
-                "column_max": 590,
-                "row_max": 117,
-                "Centroid_x": 1406.0,
-                "Centroid_y": 269.0
+                "column_min": 251,
+                "row_min": 52,
+                "column_max": 280,
+                "row_max": 57,
+                "Centroid_x": 638.0,
+                "Centroid_y": 132.5
             },
-            "text_content": "NIC"
+            "text_content": "months ago"
         },
         {
             "id": 42,
             "class": "Text",
-            "height": 9,
-            "width": 54,
+            "height": 5,
+            "width": 20,
             "position": {
-                "column_min": 562,
-                "row_min": 180,
-                "column_max": 616,
-                "row_max": 189,
-                "Centroid_x": 1414.0,
-                "Centroid_y": 443.5
+                "column_min": 287,
+                "row_min": 52,
+                "column_max": 307,
+                "row_max": 57,
+                "Centroid_x": 714.0,
+                "Centroid_y": 132.5
             },
-            "text_content": "Refresh your"
+            "text_content": "Modified"
         },
         {
             "id": 43,
             "class": "Text",
-            "height": 8,
-            "width": 25,
+            "height": 5,
+            "width": 28,
             "position": {
-                "column_min": 618,
-                "row_min": 182,
-                "column_max": 643,
-                "row_max": 190,
-                "Centroid_x": 1514.0,
-                "Centroid_y": 447.0
+                "column_min": 335,
+                "row_min": 52,
+                "column_max": 363,
+                "row_max": 57,
+                "Centroid_x": 838.5,
+                "Centroid_y": 132.5
             },
-            "text_content": "space"
+            "text_content": "months ago"
         },
         {
             "id": 44,
             "class": "Text",
             "height": 5,
-            "width": 23,
+            "width": 46,
             "position": {
-                "column_min": 562,
-                "row_min": 330,
-                "column_max": 585,
-                "row_max": 335,
-                "Centroid_x": 1377.0,
-                "Centroid_y": 799.0
+                "column_min": 369,
+                "row_min": 52,
+                "column_max": 415,
+                "row_max": 57,
+                "Centroid_x": 942.0,
+                "Centroid_y": 132.5
             },
-            "text_content": "See more"
+            "text_content": "Viewed 174k times"
         },
         {
             "id": 45,
             "class": "Text",
-            "height": 4,
-            "width": 11,
+            "height": 5,
+            "width": 267,
             "position": {
-                "column_min": 636,
-                "row_min": 11,
-                "column_max": 647,
-                "row_max": 15,
-                "Centroid_x": 1541.5,
-                "Centroid_y": 33.0
+                "column_min": 237,
+                "row_min": 125,
+                "column_max": 504,
+                "row_max": 130,
+                "Centroid_x": 890.5,
+                "Centroid_y": 307.5
             },
-            "text_content": "EN ."
+            "text_content": "want to run a python file in my command prompt but it does nothing . These are the screen shots"
         },
         {
             "id": 46,
             "class": "Text",
-            "height": 4,
-            "width": 44,
+            "height": 6,
+            "width": 222,
             "position": {
-                "column_min": 658,
-                "row_min": 12,
-                "column_max": 702,
-                "row_max": 16,
-                "Centroid_x": 1634.0,
-                "Centroid_y": 35.5
+                "column_min": 234,
+                "row_min": 134,
+                "column_max": 456,
+                "row_max": 140,
+                "Centroid_x": 829.5,
+                "Centroid_y": 330.0
             },
-            "text_content": "Account & Lists"
+            "text_content": "of my program am testing with and the output the command prompt gives me ."
         },
         {
             "id": 47,
             "class": "Text",
             "height": 3,
-            "width": 56,
+            "width": 4,
             "position": {
-                "column_min": 655,
-                "row_min": 47,
-                "column_max": 711,
-                "row_max": 50,
-                "Centroid_x": 1640.5,
-                "Centroid_y": 118.0
+                "column_min": 234,
+                "row_min": 146,
+                "column_max": 238,
+                "row_max": 149,
+                "Centroid_x": 567.5,
+                "Centroid_y": 355.0
             },
-            "text_content": "New customer ? Start here ."
+            "text_content": "PC"
         },
         {
             "id": 48,
             "class": "Text",
             "height": 4,
-            "width": 12,
+            "width": 15,
             "position": {
-                "column_min": 769,
-                "row_min": 12,
-                "column_max": 781,
-                "row_max": 16,
-                "Centroid_x": 1861.0,
-                "Centroid_y": 35.5
+                "column_min": 248,
+                "row_min": 146,
+                "column_max": 263,
+                "row_max": 150,
+                "Centroid_x": 614.5,
+                "Centroid_y": 356.0
             },
-            "text_content": "Cart"
+            "text_content": "Command"
+        },
+        {
+            "id": 49,
+            "class": "Text",
+            "height": 4,
+            "width": 11,
+            "position": {
+                "column_min": 264,
+                "row_min": 147,
+                "column_max": 275,
+                "row_max": 151,
+                "Centroid_x": 647.0,
+                "Centroid_y": 358.0
+            },
+            "text_content": "Prompt"
+        },
+        {
+            "id": 50,
+            "class": "Text",
+            "height": 2,
+            "width": 4,
+            "position": {
+                "column_min": 235,
+                "row_min": 202,
+                "column_max": 239,
+                "row_max": 204,
+                "Centroid_x": 569.0,
+                "Centroid_y": 488.0
+            },
+            "text_content": "Hit"
+        },
+        {
+            "id": 51,
+            "class": "Text",
+            "height": 3,
+            "width": 18,
+            "position": {
+                "column_min": 244,
+                "row_min": 284,
+                "column_max": 262,
+                "row_max": 287,
+                "Centroid_x": 607.5,
+                "Centroid_y": 687.0
+            },
+            "text_content": "Capture.PNG"
+        },
+        {
+            "id": 52,
+            "class": "Text",
+            "height": 6,
+            "width": 21,
+            "position": {
+                "column_min": 524,
+                "row_min": 261,
+                "column_max": 545,
+                "row_max": 267,
+                "Centroid_x": 1284.0,
+                "Centroid_y": 634.0
+            },
+            "text_content": "Linked"
+        },
+        {
+            "id": 53,
+            "class": "Text",
+            "height": 6,
+            "width": 98,
+            "position": {
+                "column_min": 544,
+                "row_min": 278,
+                "column_max": 642,
+                "row_max": 284,
+                "Centroid_x": 1424.0,
+                "Centroid_y": 675.0
+            },
+            "text_content": "How can add python to cmd in windows"
+        },
+        {
+            "id": 54,
+            "class": "Text",
+            "height": 4,
+            "width": 84,
+            "position": {
+                "column_min": 543,
+                "row_min": 294,
+                "column_max": 627,
+                "row_max": 298,
+                "Centroid_x": 1406.0,
+                "Centroid_y": 712.0
+            },
+            "text_content": "How to add to the PYTHONPATH in"
+        },
+        {
+            "id": 55,
+            "class": "Text",
+            "height": 7,
+            "width": 24,
+            "position": {
+                "column_min": 524,
+                "row_min": 396,
+                "column_max": 548,
+                "row_max": 403,
+                "Centroid_x": 1287.5,
+                "Centroid_y": 960.0
+            },
+            "text_content": "Related"
+        },
+        {
+            "id": 56,
+            "class": "Text",
+            "height": 5,
+            "width": 104,
+            "position": {
+                "column_min": 543,
+                "row_min": 339,
+                "column_max": 647,
+                "row_max": 344,
+                "Centroid_x": 1430.0,
+                "Centroid_y": 820.5
+            },
+            "text_content": "How to run python function from command"
+        },
+        {
+            "id": 57,
+            "class": "Text",
+            "height": 3,
+            "width": 9,
+            "position": {
+                "column_min": 543,
+                "row_min": 347,
+                "column_max": 552,
+                "row_max": 350,
+                "Centroid_x": 1316.0,
+                "Centroid_y": 837.5
+            },
+            "text_content": "line"
+        },
+        {
+            "id": 58,
+            "class": "Text",
+            "height": 5,
+            "width": 85,
+            "position": {
+                "column_min": 546,
+                "row_min": 359,
+                "column_max": 631,
+                "row_max": 364,
+                "Centroid_x": 1413.5,
+                "Centroid_y": 868.0
+            },
+            "text_content": "am having trouble opening .py files"
+        },
+        {
+            "id": 59,
+            "class": "Text",
+            "height": 5,
+            "width": 101,
+            "position": {
+                "column_min": 543,
+                "row_min": 414,
+                "column_max": 644,
+                "row_max": 419,
+                "Centroid_x": 1426.0,
+                "Centroid_y": 1000.5
+            },
+            "text_content": "What does if __name__ == __main__ : do ?"
+        },
+        {
+            "id": 60,
+            "class": "Text",
+            "height": 5,
+            "width": 87,
+            "position": {
+                "column_min": 544,
+                "row_min": 430,
+                "column_max": 631,
+                "row_max": 435,
+                "Centroid_x": 1411.0,
+                "Centroid_y": 1040.0
+            },
+            "text_content": "How do execute a program or call a"
+        },
+        {
+            "id": 61,
+            "class": "Text",
+            "height": 5,
+            "width": 41,
+            "position": {
+                "column_min": 544,
+                "row_min": 437,
+                "column_max": 585,
+                "row_max": 442,
+                "Centroid_x": 1355.0,
+                "Centroid_y": 1056.5
+            },
+            "text_content": "system command"
         }
     ],
     "img_shape": [

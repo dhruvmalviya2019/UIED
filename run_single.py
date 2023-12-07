@@ -45,7 +45,7 @@ if __name__ == '__main__':
                   'merge-contained-ele':True, 'merge-line-to-paragraph':False, 'remove-bar':True}
 
     # set input image path
-    website_url = 'https://amazon.com'
+    website_url = 'https://stackoverflow.com/questions/39462632/how-to-run-python-files-in-windows-command-prompt'
     screenshot_path = 'data/input/ss.png'
     take_screenshot(website_url, screenshot_path)
 
@@ -85,4 +85,4 @@ if __name__ == '__main__':
         compo_path = pjoin(output_root, 'ip', str(name) + '.json')
         ocr_path = pjoin(output_root, 'ocr', str(name) + '.json')
         merge.merge(input_path_img, compo_path, ocr_path, pjoin(output_root, 'merge'),
-                        is_remove_bar=key_params['remove-bar'], is_paragraph=key_params['merge-line-to-paragraph'], show=False)
+                        is_remove_bar=key_params['remove-bar'], is_paragraph=key_params['merge-line-to-paragraph'], show=True)
